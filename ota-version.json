@@ -1,5 +1,5 @@
 {
-  "otaVersion": 3,
+  "otaVersion": 4,
   "bundleUrl": "https://raw.githubusercontent.com/aditya14340/milkanalyzerapp-ota/main/index.android.bundle",
-  "releaseNotes": "Auto-Update v3: Completely aligned Expo SDK 54 native modules with clean HBC bytecode and zero legacy class crashes!"
+  "releaseNotes": "Auto-Update v4: Completely redesigned App Updates notification UI card with modern blue highlight, fixed overlapping icon, and added extra bottom scroll padding!"
 }
