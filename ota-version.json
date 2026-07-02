@@ -1,0 +1,9 @@
+{
+    "message":  {
+                    "mr":  "ॲप अद्ययावत आहे.",
+                    "hi":  "ऐप अद्यतन है।",
+                    "en":  "App is up to date."
+                },
+    "otaVersion":  1,
+    "bundleUrl":  "https://raw.githubusercontent.com/aditya14340/milkanalyzerapp-ota/main/index.android.bundle"
+}
