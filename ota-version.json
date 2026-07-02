@@ -1,9 +1,5 @@
 {
-    "message":  {
-                    "mr":  "अपडेट डाऊनलोडमधील त्रुटी पूर्णपणे सुधारण्यात आली आहे.",
-                    "hi":  "अपडेट डाउनलोड में त्रुटि ठीक कर दी गई है।",
-                    "en":  "Fixed update downloading error and improved stability."
-                },
-    "otaVersion":  2,
-    "bundleUrl":  "https://raw.githubusercontent.com/aditya14340/milkanalyzerapp-ota/main/index.android.bundle"
+  "otaVersion": 3,
+  "bundleUrl": "https://raw.githubusercontent.com/aditya14340/milkanalyzerapp-ota/main/index.android.bundle",
+  "releaseNotes": "Auto-Update v3: Completely aligned Expo SDK 54 native modules with clean HBC bytecode and zero legacy class crashes!"
 }
