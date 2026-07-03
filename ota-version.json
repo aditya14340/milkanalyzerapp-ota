@@ -1,5 +1,5 @@
 {
-  "otaVersion": 5,
+  "otaVersion": 6,
   "bundleUrl": "https://raw.githubusercontent.com/aditya14340/milkanalyzerapp-ota/main/index.android.bundle",
-  "releaseNotes": "Auto-Update v5: Removed the technical security description (कोणत्याही टोकनची आवश्यकता नाही) from Settings screen as requested, and redesigned update notification card."
+  "releaseNotes": "Auto-Update v6: CRITICAL FIX — All icons now properly load using Font.useFonts(). Removed security text. Redesigned update notification card."
 }
