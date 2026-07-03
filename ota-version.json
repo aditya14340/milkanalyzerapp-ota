@@ -1,5 +1,5 @@
 {
-  "otaVersion": 4,
+  "otaVersion": 5,
   "bundleUrl": "https://raw.githubusercontent.com/aditya14340/milkanalyzerapp-ota/main/index.android.bundle",
-  "releaseNotes": "Auto-Update v4: Completely redesigned App Updates notification UI card with modern blue highlight, fixed overlapping icon, and added extra bottom scroll padding!"
+  "releaseNotes": "Auto-Update v5: Removed the technical security description (कोणत्याही टोकनची आवश्यकता नाही) from Settings screen as requested, and redesigned update notification card."
 }
