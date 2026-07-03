@@ -1,5 +1,5 @@
 {
-  "otaVersion": 6,
+  "otaVersion": 7,
   "bundleUrl": "https://raw.githubusercontent.com/aditya14340/milkanalyzerapp-ota/main/index.android.bundle",
-  "releaseNotes": "Auto-Update v6: CRITICAL FIX — All icons now properly load using Font.useFonts(). Removed security text. Redesigned update notification card."
+  "releaseNotes": "OTA v7 Test: Added visible success marker on Updates screen to verify OTA is working correctly."
 }
